@@ -1,0 +1,27 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: nomovehandler.zip
+       Short Description: sample C++ source prevents window from being moved
+        Long Description: very simple C++ class derived from IHandler used to keep a frame window from being moved or resized
+
+      Proposed directory
+           for placement: /pub/os2/dev/cplusplus
+
+               Your name: Stephane Charette
+           Email address: charette@writeme.com
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: (none) 
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: OS/2 Warp 4+ (may also work on 3.x)
+ Additional requirements: IBM VisualAge C++ v3+ for OS/2
+
+                Replaces: none
+
+
+
